@@ -1,7 +1,7 @@
 import subprocess
 import threading
 
-START_INDEX_FROM = 4
+START_INDEX_FROM = 9
 
 
 def execute_ffmpeg(command, output_file):
@@ -57,7 +57,9 @@ gifs = [
     (10, 11, "LOL"),
     (12, 13, "Hello"),
     (14, 27, "CS-Ranked Heroic En"),
-    (27.5, 28, "Waiter Walk"),
+    (29, 31, "Waiter Walk"),
+    (33, 38, "Easy Peasy"),
+    (40, 45, "Money Throw")
 ]
 
 

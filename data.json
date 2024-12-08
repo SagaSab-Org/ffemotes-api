@@ -1,0 +1,32 @@
+{
+  "backgrounds": [],
+  "data": {
+    "PG 1": {
+      "icon_path": "images/icons/1.png",
+      "items": [
+        {
+          "path": "images/gifs/Ridicle.gif",
+          "keywords": ""
+        }
+      ]
+    },
+    "PG 2": {
+      "icon_path": "images/icons/2.png",
+      "items": [
+        {
+          "path": "images/gifs/Threaten.gif",
+          "keywords": ""
+        }
+      ]
+    },
+    "PG 3": {
+      "icon_path": "images/icons/3.png",
+      "items": [
+        {
+          "path": "images/gifs/Applause.gif",
+          "keywords": ""
+        }
+      ]
+    }
+  }
+}

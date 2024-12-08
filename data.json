@@ -7,25 +7,43 @@
         {
           "path": "images/gifs/Ridicle.gif",
           "keywords": ""
+        },
+        {
+          "path": "images/gifs/Threaten.gif",
+          "keywords": ""
+        },
+        {
+          "path": "images/gifs/Applause.gif",
+          "keywords": ""
+        },
+        {
+          "path": "images/gifs/LOL.gif",
+          "keywords": ""
+        },
+        {
+          "path": "images/gifs/Hello.gif",
+          "keywords": ""
+        },
+        {
+          "path": "images/gifs/CS-Ranked Heroic En.gif",
+          "keywords": ""
+        },
+        {
+          "path": "images/gifs/Waiter Walk.gif",
+          "keywords": ""
         }
       ]
     },
     "PG 2": {
       "icon_path": "images/icons/2.png",
       "items": [
-        {
-          "path": "images/gifs/Threaten.gif",
-          "keywords": ""
-        }
+
       ]
     },
     "PG 3": {
       "icon_path": "images/icons/3.png",
       "items": [
-        {
-          "path": "images/gifs/Applause.gif",
-          "keywords": ""
-        }
+
       ]
     }
   }

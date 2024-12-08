@@ -49,7 +49,7 @@ def extract_video_segments_as_gif(input_file, output_folder, segments):
         thread.join()
 
 
-gifs = [
+gifs_video_1 = [
     # START, END, LABEL
     (1, 3, "Ridicle"),
     (4, 6, "Threaten"),
@@ -60,14 +60,30 @@ gifs = [
     (29, 31, "Waiter Walk"),
     (33, 38, "Easy Peasy"),
     (40, 45, "Money Throw")
+
+]
+
+gifs_video_2 = [
+    (7, 8, "Big Smash")
 ]
 
 
-def main():
+def video_1():
     input_video = "video.webm"
     output_folder = "images/gifs"
-    time_ranges = gifs  # Specify time ranges
+    time_ranges = gifs_video_1  # Specify time ranges
     extract_video_segments_as_gif(input_video, output_folder, time_ranges)
+
+
+def video_2():
+    input_video = "video2.webm"
+    output_folder = "images/gifs"
+    time_ranges = gifs_video_2  # Specify time ranges
+    extract_video_segments_as_gif(input_video, output_folder, time_ranges)
+
+
+def main():
+    video_2()
 
 
 if __name__ == "__main__":

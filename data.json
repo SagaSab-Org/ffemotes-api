@@ -1,7 +1,7 @@
 {
   "backgrounds": [],
   "data": {
-    "PG 1": {
+    "Classic": {
       "icon_path": "images/icons/1.png",
       "items": [
         {
@@ -34,16 +34,9 @@
         }
       ]
     },
-    "PG 2": {
+    "Crates": {
       "icon_path": "images/icons/2.png",
       "items": [
-
-      ]
-    },
-    "PG 3": {
-      "icon_path": "images/icons/3.png",
-      "items": [
-
       ]
     }
   }

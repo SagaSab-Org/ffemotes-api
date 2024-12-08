@@ -45,6 +45,22 @@
     "Cool": {
       "icon_path": "images/icons/2.png",
       "items": [
+        {
+          "path": "images/gifs/Big Smash.gif",
+          "keywords": ""
+        },
+        {
+          "path": "images/gifs/Graffiti Cameraman.gif",
+          "keywords": ""
+        },
+        {
+          "path": "images/gifs/Weight Training.gif",
+          "keywords": ""
+        },
+        {
+          "path": "images/gifs/Heart Broken.gif",
+          "keywords": ""
+        }
       ]
     }
   }

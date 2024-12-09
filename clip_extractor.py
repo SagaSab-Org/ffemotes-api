@@ -32,7 +32,7 @@ def extract_video_segments_as_gif(input_file, output_folder, segments):
                 "-to", str(end),  # End time
                 "-i", input_file,  # Input file,
                 "-lavfi", "minterpolate=fps=20,scale=600:-2:flags=lanczos,setpts=1.3*PTS",
-                "-c:v", "gif",  # Use H.265 codec
+                "-c:v", "gif",
                 output_file,  # Output file
                 "-y"
             ]
